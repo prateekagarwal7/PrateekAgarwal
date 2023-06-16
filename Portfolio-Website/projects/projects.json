@@ -1,0 +1,73 @@
+[
+  {
+    "name": "OLYMPIC DATA ANALYSIS",
+    "desc": ": The data set is loaded from kaggle and data is cleaned. Streamlit library of python is used to develop the front-end of website. ",
+    "image": "olympicsimg",
+    "category": "android",
+    "links": {
+      
+      "code":  "https://github.com/supercoder246/olympic-dataset-analysis.git"
+    }
+  },
+  {
+    "name": "Tumor Detection",
+    "desc": "Data is cleaned and preprocessed before training the machine. Predictions are made using Random Forest",
+    "image": "tumor",
+    "category": "machine learning",
+    "links": {
+
+      "code": "https://github.com/supercoder246/TUMOUR-DETECTION"
+    }
+  },
+  {
+    "name": " YourTube",
+    "desc": "Created an online video serving website where the user may search for particular type by typing the keyword in search box.",
+    "image": "ytclone",
+    "category": "Web Development | React",
+    "links": {
+     
+      "code": "https://github.com/supercoder246/Yourtube-react.git"
+    }
+  },
+  {
+    "name": "Hostel Management System ",
+    "desc": "Developed a desktop application using C# and .NET framework that deals with real time problem of room allotment in hostels",
+    "image": "hosel",
+    "category": "Desktop Application",
+    "links": {
+     
+      "code": "https://github.com/supercoder246/Hostel_management"
+    }
+  },
+  {
+    "name": "Food-in-min",
+    "desc": "Created a webpage using HTML, CSS, JavaScript, Bootstrap.",
+    "image": "instagrammern",
+    "category": "FrontEnd Website",
+    "links": {
+     
+      "code": "https://github.com/supercoder246/frontend_web"
+    }
+  },
+  {
+    "name": "Covid -19 and Happiness index relation ",
+    "desc": "Ran series of test in order to determine if any relation exist between the  country’s ranking in the happiness index",
+    "image": "covid.jpg",
+    "category": "Machine Learning",
+    "links": {
+      
+      "code": "https://github.com/supercoder246/Covid19"
+    }
+  },
+  {
+    "name": "Rainfall Prtediction",
+    "desc": "Analyzed the data that was in form of .csv file in order to determine the relation between the precipitation rate and factors affecting the rainfall",
+    "image": "rainfall",
+    "category": "Machine Learning",
+    "links": {
+      
+      "code": "https://github.com/supercoder246/Rainfall-pridiction"
+    }
+  }
+ 
+]
